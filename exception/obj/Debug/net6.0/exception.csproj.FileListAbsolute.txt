@@ -1,0 +1,14 @@
+C:\Users\Mehemmed\Desktop\BP206task\exception\exception\bin\Debug\net6.0\exception.exe
+C:\Users\Mehemmed\Desktop\BP206task\exception\exception\bin\Debug\net6.0\exception.deps.json
+C:\Users\Mehemmed\Desktop\BP206task\exception\exception\bin\Debug\net6.0\exception.runtimeconfig.json
+C:\Users\Mehemmed\Desktop\BP206task\exception\exception\bin\Debug\net6.0\exception.dll
+C:\Users\Mehemmed\Desktop\BP206task\exception\exception\bin\Debug\net6.0\exception.pdb
+C:\Users\Mehemmed\Desktop\BP206task\exception\exception\obj\Debug\net6.0\exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehemmed\Desktop\BP206task\exception\exception\obj\Debug\net6.0\exception.AssemblyInfoInputs.cache
+C:\Users\Mehemmed\Desktop\BP206task\exception\exception\obj\Debug\net6.0\exception.AssemblyInfo.cs
+C:\Users\Mehemmed\Desktop\BP206task\exception\exception\obj\Debug\net6.0\exception.csproj.CoreCompileInputs.cache
+C:\Users\Mehemmed\Desktop\BP206task\exception\exception\obj\Debug\net6.0\exception.dll
+C:\Users\Mehemmed\Desktop\BP206task\exception\exception\obj\Debug\net6.0\refint\exception.dll
+C:\Users\Mehemmed\Desktop\BP206task\exception\exception\obj\Debug\net6.0\exception.pdb
+C:\Users\Mehemmed\Desktop\BP206task\exception\exception\obj\Debug\net6.0\exception.genruntimeconfig.cache
+C:\Users\Mehemmed\Desktop\BP206task\exception\exception\obj\Debug\net6.0\ref\exception.dll
